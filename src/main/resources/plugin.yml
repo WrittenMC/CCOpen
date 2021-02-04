@@ -1,0 +1,8 @@
+name: CCOpen
+version: ${project.version}
+main: cn.cutemc.ccopen.CCOpen
+api-version: 1.16
+depend: [ChestCommands]
+authors: [lushangkan]
+description: 使CC插件在菜单中用指令打开别的菜单
+website: https://cutemc.cn
